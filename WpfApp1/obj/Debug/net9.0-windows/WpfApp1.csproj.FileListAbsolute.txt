@@ -18,3 +18,4 @@ C:\Users\vdoro\RiderProjects\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\refint\Wpf
 C:\Users\vdoro\RiderProjects\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.pdb
 C:\Users\vdoro\RiderProjects\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.genruntimeconfig.cache
 C:\Users\vdoro\RiderProjects\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\ref\WpfApp1.dll
+C:\Users\vdoro\RiderProjects\WpfApp1\WpfApp1\obj\Debug\net9.0-windows\WpfApp1.sourcelink.json
