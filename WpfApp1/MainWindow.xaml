@@ -5,13 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <TextBlock HorizontalAlignment="Left" Margin="387,60,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="287,140,0,0" TextWrapping="Wrap" Text="Select a message option and then choose the Display button." VerticalAlignment="Top"/>
-        <RadioButton x:Name="Anal" Content="Hello" HorizontalAlignment="Left" Margin="197, 170, 0, 0" VerticalAlignment="Top"/>
-        <RadioButton x:Name="Cock" Content="Bye" HorizontalAlignment="Left" Margin="497, 170, 0, 0" VerticalAlignment="Top"/>
-        
-        <Button Content="dupa" HorizontalAlignment="Left" Margin="400, 200, 0, 0" VerticalAlignment="Top" Width="75"/>
+        Title="MainWindow" Height="350" Width="525">
+    <Grid x:Name="grid1">
+        <TextBox x:Name="textBox1" Width="150" Height="30" VerticalAlignment="Top" Margin="20" />
+        <Button x:Name="button1"  Width="100" Height="30" Content="Кнопка" Click="Button_Click" />
     </Grid>
 </Window>
